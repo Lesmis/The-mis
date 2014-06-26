@@ -1,0 +1,12 @@
+{
+  "minimumVersion": 1, 
+  "packages": [
+    {
+      "name": "The_Miserable", 
+      "title": "The_Miserable(Beta)", 
+      "version": "0.0.1", 
+      "location": "modpack.json", 
+      "priority": 1
+    }
+  ]
+}
